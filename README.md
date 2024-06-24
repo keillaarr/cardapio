@@ -39,8 +39,7 @@ O objetivo deste projeto é duplo: busca-se tanto aprofundar o conhecimento em t
 <br><br> 
 
 ## Sistema  
-Visit https://cardapio-steel.vercel.app/
-
+Visit [https://keillaarr.github.io/cardapio/]
 
 ![download](https://github.com/keillaarr/cardapio/assets/47616927/1d73b14c-ba77-43f0-8369-e04e6294ae60)
 
